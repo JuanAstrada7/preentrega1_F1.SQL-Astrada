@@ -1,0 +1,2 @@
+Descripción de la temática de la base de datos
+La base de datos está diseñada para gestionar información relacionada con la Fórmula 1, un deporte de motor muy popular y seguido a nivel mundial. El propósito de esta base de datos es almacenar y organizar datos sobre pilotos, equipos, circuitos, carreras, temporadas y resultados, proporcionando una estructura que facilita el análisis y consulta de información relevante para aficionados, equipos y organizadores del campeonato.
