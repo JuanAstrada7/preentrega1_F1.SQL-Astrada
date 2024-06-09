@@ -77,8 +77,8 @@ DROP TABLE IF EXISTS Temporadas;
 CREATE TABLE Temporadas (
     id_temporada INT AUTO_INCREMENT PRIMARY KEY,
     año YEAR NOT NULL,
-    campeon_piloto INT NOT NULL,
-    campeon_equipo INT NOT NULL,
+    campeon_piloto INT NULL,
+    campeon_equipo INT NULL,
     numero_carreras INT NOT NULL,
     fecha_inicio DATE NOT NULL,
     fecha_fin DATE NOT NULL,
